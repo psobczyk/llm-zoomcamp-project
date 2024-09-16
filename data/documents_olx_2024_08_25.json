@@ -1,0 +1,462 @@
+[
+  {
+    "course": "olx-qa",
+    "documents": [
+      {
+        "text": "Krok 1. Załóż konto na OLX poprzez:\nstronę internetową OLX — kliknij Twoje konto → Załóż konto lub kliknij tutaj.\naplikację mobilną OLX — kliknij Konto → Zaloguj się → Załóż konto.\nJeśli grafika jest nieczytelna, kliknij prawy przycisk myszy i wybierz „Otwórz grafikę w nowej karcie\".\nKrok 2. Wpisz swój adres e-mail.\nKrok 3. Wpisz hasło, które ma minimum 8 znaków, w tym przynajmniej jedną dużą i małą literę, jedną cyfrę oraz znak specjalny.\nKrok 4. Kliknij Zarejestruj się.\nKrok 5. Przejdź do skrzynki mailowej i w wiadomości od OLX kliknij przycisk Aktywuj konto.\nJeśli nie masz linku aktywacyjnego — napisz do nas.\nNa jednym koncie OLX nie można sprzedawać przedmiotów prywatnych i przedmiotów w ramach prowadzenia firmy. Do każdego typu sprzedaży (prywatnie, jako firma) wymagane jest oddzielne konto.\nKonto na OLX możesz założyć za pomocą konta na Facebooku. Wystarczy, że klikniesz tutaj. Następnie wybierz przycisk Kontynuuj z Facebook i postępuj zgodnie z wyświetlanymi wskazówkami. W ten sposób utworzymy konto w OLX na adresie e-mail powiązanym z Twoim kontem Facebook. Przed wyborem „Kontynuuj z Facebookiem\" sprawdź, czy jesteś zalogowany/zalogowana na danym urządzeniu do konta Facebook.",
+        "section": "Konto",
+        "question": "Jak założyć konto?"
+      },
+      {
+        "text": "Nie mam SMS z kodem do weryfikacji konta\nGdy będziesz dodawać pierwsze ogłoszenie na OLX, konieczne będzie zweryfikowanie Twojego konta za pomocą numeru telefonu.\nKrok 1. Zaloguj się na swoje konto OLX.\nKrok 2. Kliknij przycisk Dodaj ogłoszenie.\nKrok 3. Wpisz w wyznaczone pole swój numer telefonu — po chwili otrzymasz SMS z kodem weryfikacyjnym.\nJeśli grafika jest nieczytelna, kliknij prawy przycisk myszy i wybierz \"Otwórz grafikę w nowej karcie\".\nKrok 4. Wpisz kod z wiadomości SMS i kliknij przycisk Weryfikuj.\nNie mam SMS z kodem do weryfikacji konta\nWiadomość SMS z kodem weryfikacyjnym zazwyczaj dociera w ciągu minuty. Może zdarzyć się, że wystąpi małe opóźnienie i poczekasz na kod do pół godziny. Jeżeli nie otrzymasz SMS w tym czasie, skontaktuj się ze swoim operatorem komórkowym i sprawdź, czy nie masz aktywnej blokady wiadomości premium oraz wiadomości reklamowych. Blokada tego typu może zablokować wiadomość SMS, którą do Ciebie wysłaliśmy. Nie poniesiesz kosztów za SMS, który otrzymasz od OLX.",
+        "section": "Konto",
+        "question": "Weryfikacja konta"
+      },
+      {
+        "text": "Jeżeli nie udało Ci się zweryfikować konta i widzisz poniższy komunikat, oznacza to, że wpisany numer został już użyty do weryfikacji innego konta OLX. Tym samym potwierdzenie obecnie zakładanego konta nie będzie możliwe.\nJeśli grafika jest nieczytelna, kliknij prawy przycisk myszy i wybierz \"Otwórz grafikę w nowej karcie\".\nJeden Użytkownik lub firma może korzystać wyłącznie z jednego konta. Jeśli masz już konto, to nie zweryfikujesz kolejnego. W przypadku gdy nie chcesz już korzystać z konta, które kiedyś zostało zweryfikowane Twoim numerem telefonu, możesz je usunąć. Dokładną instrukcję znajdziesz tutaj.​​​​​​​ Po usunięciu konta, Twój numer telefonu będzie mógł zostać użyty ponownie podczas zakładania nowego konta na OLX. Ze względów bezpieczeństwa do zwolnienia numeru dojdzie po 30 dniach od usunięcia poprzedniego konta.",
+        "section": "Konto",
+        "question": "Numer telefonu przypisany do innego konta OLX"
+      },
+      {
+        "text": "Sprawdź, czy masz połączenie z internetem.\nUpewnij się, że poprawnie wpisujesz adres e-mail, na którym masz założone konto OLX.\nZweryfikuj, czy klawisz Caps Lock jest wyłączony.",
+        "section": "Konto",
+        "question": "Nie znaleźliśmy konta z tym adresem e-mail. Spróbuj ponownie z innym adresem e-mail lub utwórz konto."
+      },
+      {
+        "text": "Upewnij się, że poprawnie wpisujesz adres e-mail oraz hasło.\nZweryfikuj, czy klawisz Caps Lock jest wyłączony.\nSprawdź, czy urządzenie, z którego właśnie korzystasz, automatycznie nie podstawia starszych, zapisanych danych do logowania (jeśli wcześniej zmieniane było hasło). W tym przypadku pola, w których wpisujesz adres e-mail i hasło będą podświetlone oraz uzupełnione.\nWyczyścić pamięć podręczną, historię oraz pliki cookie z co najmniej miesiąca z przeglądarki, a dzięki temu nieaktualne dane nie będą już uzupełniane. Instrukcję jak to zrobić znajdziesz tutaj.\nJeśli nie masz pewności, czy wpisujesz prawidłowe hasło, skorzystaj z opcji zmiany hasła.",
+        "section": "Konto",
+        "question": "Nieprawidłowy login lub hasło"
+      },
+      {
+        "text": "Jeśli widzisz taki komunikat, odinstaluj aplikację OLX, a następnie zainstaluj ją ponownie na swoim urządzeniu.\nWażne, aby aplikacja została usunięta po przejściu do Ustawienia → Aplikacje.",
+        "section": "Konto",
+        "question": "Błąd podczas logowania"
+      },
+      {
+        "text": "Usunięcie konta OLX spowoduje, że jego odzyskanie nie będzie już możliwe. Wszystkie Twoje dane zostaną skasowane.\nKrok 1. Zaloguj się na konto OLX.\nKrok 2. Jeśli korzystasz z:\nstrony internetowej OLX — kliknij Twoje konto → Ustawienia → Zarządzanie kontem.\naplikacji mobilnej OLX — kliknij Konto → Ustawienia.\nKrok 3. Kliknij przycisk Usuń konto → Wyślij e-mail.\nKrok 4. Przejdź na adres e-mail powiązany z kontem OLX i potwierdź chęć usunięcia konta.\nZmiana e-mail/danych kontaktowych\nZmiana adresu e-mail\nZmiana danych kontaktowych",
+        "section": "Konto",
+        "question": "Jak usunąć konto?"
+      },
+      {
+        "text": "Krok 1. Zaloguj się na swoje konto OLX.\nKrok 2. Jeśli korzystasz z:\nprzeglądarki internetowej — przejdź do zakładki Twoje konto → Ustawienia.\naplikacji mobilnej — przejdź do zakładki Konto → Ustawienia.\nKrok 3. Wybierz zakładkę Zmień e-mail.\nKrok 4. Wpisz nowy adres e-mail i kliknij przycisk Zmień / Zapisz.\nKrok 5. Zaloguj się na konto poczty elektronicznej, które ma zostać powiązane z Twoim kontem OLX.\nKrok 6. W wiadomości od OLX kliknij link potwierdzający zmianę adresu mailowego.",
+        "section": "Konto",
+        "question": "Zmiana adresu e-mail"
+      },
+      {
+        "text": "Krok 1. Zaloguj się na swoje konto OLX używając komputera (w aplikacji mobilnej możesz zmienić tylko nazwę osoby kontaktowej).\nKrok 2. Przejdź do zakładki Twoje konto → Profil.\nKrok 3. Kliknij przycisk Edytuj.\nKrok 4. Zmień podstawowe informacje.\nKrok 5. Kliknij przycisk Zapisz.\nPamiętaj, że gdy zmienisz dane kontaktowe, będą one widoczne wyłącznie w ogłoszeniach, które masz zamiar dodać. Jeżeli chcesz zmienić dane w ogłoszeniach już aktywnych, musisz edytować te ogłoszenia — sprawdź instrukcję.",
+        "section": "Ogłoszenia",
+        "question": "Zmiana danych kontaktowych"
+      },
+      {
+        "text": "Aby dodać ogłoszenie:\nKrok 1. Zaloguj się do swojego konta w OLX.\nKrok 2. Jeśli korzystasz z:\nstrony internetowej OLX — kliknij przycisk Dodaj ogłoszenie — znajdziesz go w prawym, górnym rogu.\naplikacji mobilnej OLX — kliknij przycisk Dodaj — znajdziesz go na dole ekranu.\nDodaj_ogłoszenie.png\nJeśli grafika jest nieczytelna, kliknij prawy przycisk myszy i wybierz „Otwórz grafikę w nowej karcie\".\nKrok 3. Uzupełnij szczegóły ogłoszenia.\nTytuł\nWpisz tytuł ogłoszenia. Po słowach z tytułu ogłoszenia Użytkownicy mogą wyszukać Twoją ofertę. Pamiętaj, aby nie pisać tylko wielkimi literami.\nKategoria\nWybierz kategorię sprzedawanego przedmiotu samodzielnie na podstawie naszych podpowiedzi lub skorzystaj z dostępnej listy. Jeżeli chcesz się upewnić, że wybierasz odpowiednią kategorię, zajrzyj tutaj.\nCena\nPodaj cenę. Powinna ona odzwierciedlać wartość przedmiotu. Możesz również wybrać opcję Za darmo lub Zamienię. Pamiętaj, aby w ogłoszeniu wpisać rzeczywistą, oczekiwaną kwotę całkowitą brutto (w polskiej walucie).\nOpcje „Za darmo” oraz „Zamienię” nie są dostępne w kategorii Motoryzacja, w części podkategorii Nieruchomości oraz w kategorii Rolnictwo: Ciągniki, Maszyny rolnicze, Przyczepy, Części do maszyn rolniczych, Opony rolnicze.\nW niektórych kategoriach podanie ceny nie jest możliwe — na przykład w kategoriach usługowych. Możesz wtedy zamieścić cenę usługi w treści oferty.\nTyp ogłoszenia\nTyp ogłoszenia (osoba prywatna/firma) zostanie przypisany automatycznie po złożeniu deklaracji, w jaki sposób sprzedajesz na OLX. Pamiętaj, że deklaracja jest przypisana do wszystkich Twoich ogłoszeń i jej zmiana jest niemożliwa.\nOpis\nW tym miejscu podaj wszystkie szczegóły dotyczące przedmiotu/usługi. Zadbaj o szczegółowy i przejrzysty opis. W przypadku sprzedaży przedmiotu opisz stan, użyteczność, podaj parametry oraz ewentualne wady.\nZdjęcia\nKliknij Dodaj zdjęcie lub kliknij symbol aparatu, aby dodać zdjęcia, które najlepiej odzwierciedlą Twój przedmiot. Zadbaj o dobrą jakość zdjęć (maksymalna wielkość to 5 MB (format 4:3) lub 1500 x 1205 pikseli. Akceptowane formaty to: jpg, jpeg, png).\nJeżeli chcesz się dowiedzieć, jak powinny wyglądać dobre zdjęcia, zapraszamy do naszego poradnika Jak zrobić atrakcyjne zdjęcia?\nPrzypominamy także, że zgodnie z naszymi Zasadami, dodane zdjęcia:\n→ nie mogą pochodzić z Internetu (łamią wtedy bowiem prawa autorskie),\n→ powinny przedstawiać wyłącznie oferowany przedmiot,\n→ nie powinny zawierać danych kontaktowych np. numeru telefonu.\nW kategorii Praca dodanie zdjęcia nie będzie możliwe.\nDane kontaktowe i lokalizacja\n→ Wybierz miejscowość i dzielnicę, w której można obejrzeć Twój przedmiot lub w której wykonujesz usługę. Użytkownicy nie będę widzieć Twojego dokładnego adresu.\n→ Wpisz osobę kontaktową — będzie ona pojawiać się w każdym ogłoszeniu, które dodasz.\n→ Wskazany adres e-mail jest powiązany z kontem.\n→ Numer telefonu — Użytkownicy będą kontaktować się z Tobą poprzez wiadomości OLX. Jeżeli chcesz, aby kontaktowali się z Tobą również telefonicznie — podaj swój numer telefonu. Aby podać więcej niż jeden numer telefonu — rozdziel je przecinkiem i spacją, np. „601234XXX, 601234YYY\".\nDane takie jak: adres e-mail, miejscowość, numer telefonu oraz imię osoby kontaktowej możesz uzupełnić / zmienić w zakładce Ustawienia / Dane kontaktowe. Będą one widoczne podczas dodawania kolejnych ogłoszeń.\nDodatkowe parametry\nW części kategorii konieczne będzie dodanie dodatkowych parametrów. W kategorii Moda — rozmiar ubrania, w kategorii Praca — rodzaj umowy, a w kategorii Motoryzacja/Części samochodowe — parametry oferowanej części. Wypełnij pola oznaczone gwiazdką.\nKrok 4. Jeżeli Twój przedmiot jest w kategorii, w której dostępne są Przesyłki OLX, dodaj tę opcję do swojego ogłoszenia. Sprawdź, jak to zrobić, klikając tutaj.\nKrok 5. Kliknij przycisk Dodaj ogłoszenie lub Zobacz przed dodaniem.\nKrok 6. Jeżeli:\nTwoje ogłoszenie należy do płatnych kategorii — opłać zamówienie.\nchcesz, aby Twoje ogłoszenie było lepiej widoczne, wybierz jeden z dostępnych pakietów promowań. Więcej o pakietach znajdziesz tutaj.\nTwoje ogłoszenie nie należy do płatnych kategorii i nie chcesz skorzystać z pakietu promowania, kliknij przycisk Nie promuj. Jeśli przycisk nie jest widoczny — odznacz wybrane promowanie.\nWszystkie zasady zamieszczania ogłoszeń znajdziesz tutaj.",
+        "section": "Ogłoszenia",
+        "question": "Jak dodać ogłoszenie?"
+      },
+      {
+        "text": "Sprawdź, w której kategorii powinien znaleźć się Twój przedmiot lub usługa. Wybierz kategorię:\nAntyki i Kolekcje\nDla Dzieci\nDla Firm\nDla Ukrainy\nDom i Ogród\nElektronika\nModa\nMotoryzacja\nMuzyka i Edukacja\nNieruchomości\nNoclegi\nPraca\nRolnictwo\nSport i Hobby\nWypożyczalnia\nUsługi\nZdrowie i Uroda\nZwierzęta",
+        "section": "Ogłoszenia",
+        "question": "Którą kategorię wybrać?"
+      },
+      {
+        "text": "W każdej chwili możesz edytować prawie wszystkie parametry ogłoszenia. Nie możesz jednak zmienić:\nkategorii,\ntypu sprzedającego (prywatnie/jako przedsiębiorca),\nroku produkcji, modelu, pojemności silnika (ogłoszenia dotyczące pojazdów),\npowierzchni (ogłoszenia dotyczące nieruchomości),\nlokalizacji w kategorii Nieruchomości (mieszkania / sprzedaż oraz mieszkania / wynajem). W kategorii Praca lokalizację można zmienić wyłącznie do 4 h od dodania ogłoszenia.\nAby edytować ogłoszenie:\nKrok 1. Zaloguj się do swojego konta w OLX.\nKrok 2. Wybierz edycję poprzez:\nstronę internetową OLX — kliknij Twoje konto → Aktywne → obok wybranego ogłoszenia wybierz przycisk Edytuj.\naplikację mobilną OLX — kliknij Konto → Aktywne → obok wybranego ogłoszenia kliknij trzy kropki, a następnie wybierz Edytuj.\nKrok 3. Zmień w ogłoszeniu parametry, które Cię interesują.\nKrok 4. Kliknij przycisk Zmień ogłoszenie.",
+        "section": "Ogłoszenia",
+        "question": "Jak edytować ogłoszenie?"
+      },
+      {
+        "text": "Każde ogłoszenie jest aktywne 30 dni od dnia publikacji. Po tym czasie wygaśnie i trafi do zakładki Zakończone. Jeśli chcesz aby Twoja oferta była nadal aktualna:\nużyj Przedłuż — ogłoszenie odnowi się na kolejne 30 dni (przycisk pojawi się na 3 dni przed wygaśnięciem ogłoszenia),\nwłącz Autoprzedłużenie — ogłoszenie będzie odnawiać się automatycznie co 30 dni. Jeśli przekroczysz limit bezpłatnych ogłoszeń w danej kategorii / zmieni się prowizja za „Zapłać jeśli sprzedasz\" / nie będziesz mieć ogłoszeń w ramach wykupionego pakiet, Twoje ogłoszenie trafi do zakładki Ogłoszenia / Nieopłacone. Możesz je stamtąd aktywować ponownie.\nJeśli wygasło kilka ogłoszeń, zaznacz ich większą liczbę i za jednym kliknięciem aktywuj je ponownie — opcja będzie działać dla ogłoszeń, które mogą zostać opublikowane za darmo, w ramach limitu lub pakietu. Jeśli chcesz opublikować kilka płatnych ogłoszeń, każde z nich trzeba będzie aktywować pojedynczo.\nAby przedłużyć ogłoszenie:\nKrok 1. Zaloguj się na swoje konto OLX.\nKrok 2. Przejdź do zakładki Ogłoszenia / Aktywne.\nKrok 3. Przy wybranym ogłoszeniu włącz Autoprzedłużenie lub kliknij przycisk Przedłuż.",
+        "section": "Ogłoszenia",
+        "question": "Jak przedłużyć ogłoszenie?"
+      },
+      {
+        "text": "Aby zakończyć swoje ogłoszenie:\nKrok 1. Zaloguj się na swoje konto OLX.\nKrok 2. Jeśli korzystasz z:\nstrony internetowej OLX — kliknij Twoje konto → Ogłoszenia / Aktywne → przy wybranym ogłoszeniu kliknij Zakończ.\naplikacji mobilnej OLX — kliknij Konto → przy wybranym ogłoszeniu kliknij trzy kropki → wybierz przycisk Zakończ.\nOgłoszenie możesz przywrócić w dowolnym momencie. Aby to zrobić, przejdź do zakładki Zakończone i przy danym ogłoszeniu kliknij Aktywuj. Jeżeli chcesz trwale usunąć ogłoszenie, kliknij Usuń z listy moich ogłoszeń. Po wybraniu tego przycisku, odzyskanie oferty nie będzie już możliwe.",
+        "section": "Ogłoszenia",
+        "question": "Jak zakończyć ogłoszenie?"
+      },
+      {
+        "text": "Po tym, jak zaakceptujemy Twoje ogłoszenie i będzie ono aktywne w OLX, nie będzie już możliwości zmiany jego kategorii.\nJeśli uważasz, że Twoja oferta powinna znaleźć się w innej kategorii, zweryfikuj kategorię tutaj. Jeżeli nie masz pewności, którą kategorię wybrać lub chcesz dokonać jej zmiany, skontaktuj się z nami poprzez formularz kontaktowy.",
+        "section": "Przesyłki",
+        "question": "Czy mogę zmienić kategorię ogłoszenia?"
+      },
+      {
+        "text": "Znajdź interesujący Cię przedmiot → Kliknij przycisk Kup → Kup z przesyłką OLX → Uzupełnij swoje dane → Wybierz na mapie punkt odbioru przesyłki → kliknij przycisk Dalej.\nNastępnie zobaczysz całkowity koszt zamówienia (koszt towaru + koszt wysyłki + wynagrodzenie za Usługę Serwisową). Kliknij przycisk Zamawiam i płacę, a następnie wybierz sposób zapłaty:\nBLIK — podaj 6 cyfrowy kod z aplikacji swojego banku,\nPrzelew online — wybierz swój bank z listy i zaloguj się do swojego konta bankowego, aby wykonać przelew.\nJeżeli nie widzisz na liście swojego banku, kupno z Przesyłką OLX będzie możliwe wyłącznie za pomocą BLIK (o ile bank ma taką funkcjonalność).\nPo wykonaniu przelewu status zamówienia możesz obserwować w zakładce Twoje przesyłki / Kupujesz.",
+        "section": "Przesyłki",
+        "question": "Jak zapłacić za przedmiot z Przesyłką OLX?"
+      },
+      {
+        "text": "Orlen Paczka\nGdy paczka dotrze do punktu Orlen Paczki (Kioski Ruch, Punkty Partnerskie Orlen Paczki, Automaty Paczkowe oraz wybrane stacje paliw ORLEN), kod odbioru otrzymasz:\nw wiadomości SMS na numer telefonu, który podałaś / podałeś podczas składania zamówienia*,\nna skrzynkę mailową — sprawdź również folder spam i powiadomienia.\nJeśli podałaś / podałeś błędny numer telefonu do odbioru paczki, nadawca przesyłki może poprosić o jego zmianę, za pomocą adresu e-mail: usluga@orlenpaczka.pl.\nPoczta Polska\nGdy paczka dotrze do placówki Poczty Polskiej, kod obioru otrzymasz:\nw wiadomości SMS na numer telefonu, który podałaś / podałeś podczas składania zamówienia,\notrzymasz na skrzynkę mailową — sprawdź również folder spam i powiadomienia.\nJeżeli podałaś / podałeś błędny numer telefonu do odbioru paczki, nadawca przesyłki może poprosić o jego zmianę, za pomocą adresu e-mail: kontakt@poczta-polska.pl.\nJeśli nadal nie masz kodu do odbioru paczki, prawdopodobnie przesyłka nie została przyjęta na stan w punkcie odbioru (Żabka, Biedronka, ABC, Lewiatan, Delikatesy Centrum, RUCH, ORLEN). Dopiero po przyjęciu jest wysyłany sms/e-mail z kodem. Sprawę zgłoś do Contact Center Poczty Polskiej dzwoniąc na numer 801 333 444 lub (+48) 438 420 600 lub pisząc na adres kontakt@poczta-polska.pl, które podejmie stosowne czynności.\nInPost Paczkomat® 24/7\nGdy paczka dotrze do urządzenia Paczkomat®, kod odbioru:\notrzymasz na skrzynkę mailową — sprawdź również folder spam i powiadomienia,\notrzymasz w wiadomości na telefon — SMS-a nie otrzymasz, gdy w telefonie masz już zainstalowaną aplikację InPost (aby włączyć powiadomienia SMS od InPost — uzupełnij formularz),\nznajdziesz w aplikacji InPost Mobile — możesz ją pobrać na telefon / tablet,\nznajdziesz w tzw. Managerze Paczek — musisz mieć konto zarejestrowane na adres mailowy powiązany z przesyłką (możesz w szybki sposób zarejestrować się na stronie InPost).\nJeżeli podałaś / podałeś błędny numer telefonu do odbioru paczki lub sms z kodem został usunięty — napisz do nas.\nBlokada SMS Premium\nJeśli paczka dotarła do punktu odbioru, a Ty nie masz SMS z kodem odbioru, sprawdź, czy nie masz zablokowanej funkcji SMS Premium u operatora sieci komórkowej. Blokada ta uniemożliwia otrzymanie SMS od przewoźnika.",
+        "section": "Porady",
+        "question": "Gdzie znajdę kod do odbioru przesyłki?"
+      },
+      {
+        "text": "Z pewnością chcesz, by Twoje ogłoszenia przyciągały uwagę, co zwiększy szansę na szybką sprzedaż. Jedną z najważniejszych rzeczy, która zwraca uwagę Oglądającego jest zdjęcie. Zadbaj, by było atrakcyjne i dokładnie przedstawiało oferowany przedmiot. Przygotowaliśmy kilka wskazówek, które mogą Ci w tym pomóc.\n1. Zastanów się, co chcesz sfotografować\nPomyśl, co chcesz uchwycić na zdjęciu i czy oferowany przez Ciebie przedmiot posiada cechy szczególne, które warto pokazać. Sprzedajesz samochód? Kupujący na pewno doceni zdjęcia z zewnątrz, na których będzie widoczny stan karoserii, jak również z wewnątrz, na którym będzie można obejrzeć wyposażenie samochodu.\n2. Trzymaj aparat stabilnie\nBardzo ważna jest ostrość zdjęcia, dlatego warto pamiętać o stabilnym trzymaniu aparatu oraz o wyostrzeniu kadru. Większość telefonów automatycznie ustawia ostrość po dotknięciu palcem ekranu w miejscu, które ma być wyostrzone. Najlepiej jest trzymać telefon dwiema rękami lub oprzeć rękę o stabilne podłoże.\n3. Pamiętaj o dobrym oświetleniu\nDzięki odpowiedniemu oświetleniu Twój przedmiot będzie lepiej widoczny dla Oglądających. Dlatego zwróć uwagę, aby był równomiernie oświetlony oraz by światło nie świeciło bezpośrednio w obiektyw aparatu. Najlepszy efekt uzyskasz, korzystając z naturalnego, dziennego oświetlenia. Jeśli jesteś w pomieszczeniu, podejdź do okna, a w razie potrzeby użyj oświetlenia sztucznego. Unikaj również zbyt mocnego światła, by nie prześwietlić zdjęcia.\n4. Jednolite tło\nNajlepiej, jeśli tło będzie jednolite i nie rzucające się w oczy. Pozwoli to wyeksponować fotografowany przedmiot. Jeśli masz możliwość, skorzystaj z jasnego tła.\n5. Kadrowanie\nPamiętaj, aby oferowany przedmiot znajdował się w centrum zdjęcia, a po bokach nie zostało zbyt dużo pustej przestrzeni. Nie rób też zdjęć ze zbyt bliskiej odległości.\n6. Porządek na zdjęciu\nUpewnij się, że w otoczeniu fotografowanego przedmiotu nie znajdują się niepotrzebne rzeczy, które mogą odwracać uwagę.\nPamiętaj również o:\nzadbaniu, aby główne zdjęcie przedstawiało cały oferowany przedmiot,\nwykonaniu kilku zdjęć z różnych perspektyw, by pokazać przedmiot z każdej strony,\nunikaniu zdjęć pobranych z internetu lub otrzymanych od producenta – nie są one dozwolone na OLX – rozumiemy, że profesjonalne fotografie mogą wydawać się bardziej atrakcyjne, jednak dzięki rzeczywistym zdjęciom Kupujący zobaczy dokładnie sprzedawany przedmiot, sam oceni jego stan i zadecyduje o ewentualnym zakupie.",
+        "section": "Porady",
+        "question": "Jak zrobić atrakcyjne zdjęcia?"
+      },
+      {
+        "text": "Jeżeli kupujesz/sprzedajesz przedmiot z odbiorem osobistym, możesz skorzystać z opcji udostępniania lokalizacji. Aby to zrobić:\nKrok 1. Zaloguj się na swoje konto OLX w aplikacji mobilnej.\nKrok 2. Przejdź do Wiadomości i kliknij w korespondencję prowadzoną ze Sprzedającym/Kupującym.\nKrok 3. Następnie wybierz znacznik lokalizacji, który znajdziesz na dole ekranu.\nKrok 4. Potwierdź swoją decyzję, klikając przycisk Udostępnij.\nOpcja udostępniania lokalizacji jest dostępna tylko w aplikacji mobilnej OLX.",
+        "section": "Porady",
+        "question": "Jak udostępnić lokalizację?"
+      },
+      {
+        "text": "Krok 1. Zaloguj się do swojej skrzynki pocztowej na gmail.com.\nKrok 2. Sprawdź, czy w folderze „Spam” masz wiadomość od: noreply@olx.pl ; no-reply@olx.pl ; support@olx.pl. Jeśli znajdziesz takie wiadomości, zaznacz je i kliknij przycisk To nie jest Spam.\nKrok 3. Otwórz otrzymany e-mail i kliknij niewielką strzałkę obok przycisku odpowiedzi.\nKrok 4. Kliknij „Dodaj: noreply@olx.pl ; no-reply@olx.pl ; support@olx.pl do listy kontaktów”.",
+        "section": "Porady",
+        "question": "Jak dodać nasz adres e-mail do zaufanych? Gmail"
+      },
+      {
+        "text": "Krok 1. Zaloguj się do swojej skrzynki pocztowej na onet.pl.\nKrok 2. Przejdź do Ustawienia poczty → Reguły i przekierowania.\nKrok 3. Kliknij Antyspam.\nKrok 4. W polu „Adres mailowy” wklej: noreply@olx.pl ; no-reply@olx.pl ; support@olx.pl\nKrok 5. Kliknij przycisk Dodaj.",
+        "section": "Porady",
+        "question": "Jak dodać nasz adres e-mail do zaufanych? Onet"
+      },
+      {
+        "text": "Krok 1. Zaloguj się do swojej skrzynki pocztowej na interia.pl.\nKrok 2. W prawym dolnym rogu kliknij ikonkę Ustawień.\nKrok 3. Wybierz Główne ustawienia → Antyspam.\nKrok 4. W okienko pod tytułem „Zaufane” wpisz następujące adresy: noreply@olx.pl ; no-reply@olx.pl ; support@olx.pl\nKrok 5. Kliknij Dodaj.",
+        "section": "Porady",
+        "question": "Jak dodać nasz adres e-mail do zaufanych? Interia"
+      },
+      {
+        "text": "Krok 1. Zaloguj się do swojej skrzynki pocztowej na wp.pl.\nKrok 2. W prawym górnym rogu rozwiń menu i wybierz Opcje.\nKrok 3. Wybierz zakładkę Filtry → Dodaj filtr.\nKrok 4. W okienku, które się pojawi podaj następujące adresy:  noreply@olx.pl ; no-reply@olx.pl ; support@olx.pl\nKrok 5. Zaznacz opcję „Nigdy nie oznaczaj jako spam (biała lista)”.\nKrok 6. Kliknij Zapisz filtr.",
+        "section": "Porady",
+        "question": "Jak dodać nasz adres e-mail do zaufanych? Wirtualna Polska (WP)"
+      },
+      {
+        "text": "Krok 1. Zaloguj się do swojej skrzynki pocztowej na o2.pl.\nKrok 2. W prawym górnym rogu rozwiń menu i wybierz Opcje.\nKrok 3. Wybierz zakładkę Filtry → Dodaj nowy filtr.\nKrok 4.  W okienku, które się pojawi podaj następujące adresy:  noreply@olx.pl ; no-reply@olx.pl ; support@olx.pl\nKrok 5. Zaznacz opcję „Nigdy nie oznaczaj jako spam (biała lista)”.\nKrok 6. Kliknij Zapisz filtr.",
+        "section": "Porady",
+        "question": "Jak dodać nasz adres e-mail do zaufanych? Poczta o2/Tlen"
+      },
+      {
+        "text": "Krok 1.  Zaloguj się do swojej skrzynki pocztowej Apple Mail.\nKrok 2. Przejdź do Poczta → Ustawienia → Zasady.\nKrok 3. Wybierz Dodaj zasadę.\nKrok 4. Dodaj nazwę zasady np.: “Email od noreply@olx.pl ; no-reply@olx.pl ; support@olx.pl\nKrok 5. Stwórz zasadę „Jeżeli którykolwiek z tych warunków zostanie spełniony: ‘Od’ ‘Zawiera’” po czym wklej tam adres.\nKrok 6. Z menu akcji wybierz Przenieś wiadomość do skrzynki “Skrzynka odbiorcza”.\nKrok 7. Kliknij przycisk OK, aby potwierdzić.",
+        "section": "Porady",
+        "question": "Jak dodać nasz adres e-mail do zaufanych? Apple Mail"
+      },
+      {
+        "text": "Aby aplikacja działała prawidłowo sprawdź, czy Twoje urządzenie posiada:\nWymagane oprogramowanie telefonu\nOprogramowanie w wersji Android minimum 7.0 — kliknij ikonę Ustawienia → Telefon → Informacje → Informacje o oprogramowaniu.\nOprogramowanie w wersji iOS minimum 13.0 — kliknij ikonę Ustawienia → Ogólne → To urządzenie.\nWymagane oprogramowanie aktualna wersja aplikacji\nKrok 1. Zaloguj się do swojego konta w OLX.\nKrok 2. Przejdź do zakładki Konto → O aplikacji.\nKrok 3. Porównaj wersję aplikacji, którą widzisz do tej najnowszej:\ntelefon z iOS — kliknij tutaj,\ntelefon z Androidem — kliknij tutaj.\nKrok 4. Jeżeli widzisz, że wersje oprogramowania różnią się, przejdź do:\nApp Store — telefon z iOS,\nSklepu Google Play — telefon z Androidem.\nKrok 5. Wyszukaj aplikację OLX i kliknij przycisk Uaktualnij.\nJeżeli Twoje urządzenie spełnia wszystkie powyższe warunki, a aplikacja OLX nadal nie działa prawidłowo, napisz i pamiętaj żeby dołączyć zrzut ekranu oraz dokładnie opisać problem.\nJakie są główne różnice między poprzednim a nowym Systemem Ocen?do góry\nPoniżej przedstawiamy 6 głównych cech odróżniających nowy system od poprzedniego. W przypadku nowego Systemu Ocen:\nOceny mogą wystawiać wyłącznie użytkownicy, którzy kupili przedmiot z Przesyłką OLX — i dopiero po jej otrzymaniu.\nOceny są wystawiane za pomocą gwiazdek i tagów.\nOgólna ocena sprzedającego to średnia arytmetyczna wszystkich ocen (liczba gwiazdek), które otrzymał w nowym systemie.\nLista wszystkich sprzedających, których możesz ocenić jest widoczna w nowej zakładce Sprzedający do oceny.\nLista wszystkich wystawionych przez Ciebie ocen jest dostępna w nowej zakładce Wystawione oceny.\nOd naszej strony internetowej po aplikacje mobilne — nowy system jest dostępny i zoptymalizowany pod kątem wszystkich urządzeń.\nDo końca lipca 2024 roku nadal będzie można zobaczyć ocenę, jaką każdy sprzedający miał w poprzednim systemie. Pamiętaj, że ogólna ocena sprzedającego nie była po prostu średnią pojedynczych ocen. Poprzedni system zainspirowany był koncepcją NPS (ang. Net Promoter System), który opiera się na bilansie różnych rodzajów ocen użytkowników. Dlatego wyświetlana archiwalna ocena nie stanowi matematycznej średniej, stosowanej w innych, popularnych modelach systemu ocen. Poprzedni system działał w taki sposób, że wystawionym ocenom „źle”, „dobrze” i „rewelacyjnie” przypisywał określoną wagę (odpowiednio -2, +1 i +2). Następnie oceny te były przekształcane na ocenę jakościową w przedziale 0-10, wg. schematu: a) punkty 0 do 2,5 „nie polecam”, b) od 2,5 do 5 „nieźle”, c) od 5 do 7,5 „dobrze, d) od 7,5 do 10 „rewelacyjnie”.",
+        "section": "System ocen",
+        "question": "Aplikacja nie działa na moim telefonie"
+      },
+      {
+        "text": "Oceny mogą wystawiać wyłącznie użytkownicy, którzy kupili przedmiot z Przesyłką OLX — i dopiero po jej otrzymaniu. Oznacza to, że oceny mogą być wystawiane wyłącznie po odebraniu przez Kupującego przedmiotu kupionego z Przesyłką OLX (kategorie, w których Przesyłka OLX jest dostępna). Gdy sprzedający otrzyma ocenę, jest ona wyświetlana na jego profilu i we wszystkich aktywnych ogłoszeniach (również tych, które nie mają włączonej Przesyłki OLX).\nOgłoszenia w poniższych kategoriach nie będą wyświetlać oceny sprzedającego, ponieważ dotyczą usług lub przedmiotów, których nie można dostarczyć z Przesyłką OLX:\nUsługi\nPraca\nNieruchomości\nMotoryzacja\nWypożyczalnia\nOznacza to, że:\nJeśli sprzedający doda ogłoszenie w kategorii Usługi i ogłoszenie w kategorii Elektronika, jego ocena będzie wyświetlana tylko w ogłoszeniu w kategorii Elektronika.\nJeżeli sprzedający dodał dwa ogłoszenia w kategorii Elektronika, ale tylko jedno z nich ma włączoną Przesyłkę OLX, jego ocena pojawi się w obu ogłoszeniach.\nSystem Ocen jest dostępny na stronie internetowej, stronie mobilnej i w wersji 4.95.1 (lub nowszej) aplikacji OLX na urządzenia z systemem iOS oraz w wersji 5.98.2 (lub nowszej) aplikacji OLX na urządzenia z systemem Android.",
+        "section": "System ocen",
+        "question": "Czy nowy System Ocen jest dostępny we wszystkich kategoriach?"
+      },
+      {
+        "text": "Możesz ocenić sprzedającego wyłącznie wtedy, gdy kupujesz jeden z jego przedmiotów z Przesyłką OLX — i dopiero po jego otrzymaniu. Aby ocenić sprzedającego:\nNa swoim koncie przejdź do zakładki Sprzedający do oceny.\nWyszukaj odpowiedniego sprzedającego/zamówienie.\nKliknij przycisk Oceń.\nOtrzymasz również wiadomość e-mail i powiadomienie push z prośbą o ocenę sprzedającego:\nPo potwierdzeniu, że przedmiot jest OK;\nLub po zgłoszeniu problemu z przedmiotem;\nAlbo 24 godziny po odebraniu paczki.\nAby ocenić sprzedającego kliknij gwiazdki w wiadomości e-mail lub otwórz powiadomienie push.\nPodczas wystawiania oceny:\nOceń sprzedającego w skali od 1 (Bardzo źle) do 5 gwiazdek (Doskonale) - ten krok jest obowiązkowy.\nJeżeli przyznasz trzy lub mniej gwiazdek, będziesz musiał wybrać co najmniej jeden z pięciu tagów, aby uzasadnić swoją ocenę.  W przypadku przyznania czterech lub pięciu gwiazdek wybór tagu nie jest obowiązkowy.\nKliknij Oceń sprzedającego i gotowe.\nSprzedający zobaczą Twoją ocenę, w tym liczbę przyznanych gwiazdek i tagi wybrane do uzasadnienia oceny. Będzie również mógł zobaczyć Twoje imię (tj. Twoją nazwę użytkownika na OLX).\nKażda wystawiona przez Ciebie ocena zostanie dodana do Twojej zakładki Wystawione oceny. Masz 60 dni, aby ocenić przebieg transakcji z danym sprzedającym. Otrzymasz przypomnienie na 24 godziny przed wygaśnięciem prośby o ocenę. Po jej wygaśnięciu nie będziesz mógł wystawić oceny sprzedającemu za tę konkretną sprzedaż.\nIstnieje również kilka zasad, których należy przestrzegać, aby móc ocenić przebieg transakcji z danym sprzedającym:\nTwoje konto musi zostać utworzone co najmniej 30 dni przed wystawieniem oceny.\nNie możesz oceniać samego siebie.\nKonto użytkownika nie może być zablokowane, ograniczone ani oznaczone jako oszustwo lub spam.",
+        "section": "System ocen",
+        "question": "Kiedy i jak mogę wystawić ocenę sprzedającemu?"
+      },
+      {
+        "text": "Nie, nie można zmieniać ocen. Możesz jedynie poprosić o usunięcie oceny, ale nie będziesz mógł ponownie wystawić oceny sprzedającemu za tę konkretną sprzedaż.",
+        "section": "System ocen",
+        "question": "Czy mogę zmienić ocenę, która została już wystawiona?"
+      },
+      {
+        "text": "Zweryfikowana ocena oznacza, że pomiędzy kupującym a sprzedającym doszło do transakcji oraz że przesyłka została dostarczona kupującemu. Możemy być tego pewni wyłącznie wtedy, gdy przedmiot zostanie zakupiony z Przesyłką OLX. W związku z tym obecnie zbieramy oceny tylko w tym przypadku.",
+        "section": "System ocen",
+        "question": "Co to jest „zweryfikowana ocena”?"
+      },
+      {
+        "text": "Gwiazdki pozwalają ocenić zadowolenie z przebiegu transakcji z Przesyłką OLX z danym sprzedającym. Im więcej gwiazdek przyznasz, tym bardziej jesteś zadowolony. Oto kilka informacji dotyczących znaczenia gwiazdek w nowym Systemie Ocen:\n1 gwiazdka: Jest to najniższa ocena. Przyznanie jednej gwiazdki oznacza, że miałeś bardzo złą opinię o przebiegu transakcji z tym sprzedającym i że nie poleciłbyś go innym kupującym.\n2 gwiazdki: Jest to druga najniższa ocena. Przyznanie dwóch gwiazdek sugeruje, że opinia o przebiegu transakcji z tym sprzedającym była poniżej średniego poziomu. Nie była to najgorsza opinia, jednak dość zła.\n3 gwiazdki: Jest to średnia ocena. Przyznanie trzech gwiazdek sugeruje, że opinia o przebiegu transakcji z tym sprzedającym może nie była zła, ale miała pewne negatywne aspekty.\n4 gwiazdki: Jest to druga najwyższa ocena. Przyznanie czterech gwiazdek sugeruje, że Twoja opinia o przebiegu transakcji z tym sprzedającym była bardzo dobra i spełnione zostały Twoje oczekiwania.\n5 gwiazdek: Jest to najwyższa ocena. Przyznanie pięciu gwiazdek oznacza, że miałeś doskonałą opinię o przebiegu transakcji z tym sprzedającym i że masz do powiedzenia na jego temat wyłącznie pozytywne rzeczy.",
+        "section": "System ocen",
+        "question": "Co oznaczają gwiazdki w systemie ocen?"
+      },
+      {
+        "text": "Tagi to wybrane aspekty zapewniające dodatkowe informacje do oceny w postaci gwiazdek. Będziesz mógł wybrać następujący tag:\nNieobowiązkowy, jeśli przyznałeś sprzedającemu cztery lub pięć gwiazdek.\nObowiązkowy, jeżeli przyznałeś sprzedającemu trzy gwiazdki lub mniej.\nIstnieją pozytywne i negatywne tagi. Negatywne tagi będą widoczne tylko wtedy, gdy przyznasz sprzedającemu 3 gwiazdki lub mniej. Pozytywne tagi będą widoczne tylko wtedy, gdy przyznasz sprzedającemu 4 lub 5 gwiazdek.\nTagi te zostały wcześniej określone na podstawie badania przeprowadzonego wśród naszych użytkowników. Odzwierciedlają to, na co użytkownicy zwracają największą uwagę, gdy kogoś oceniają lub gdy ktoś ocenia ich. Obejmują one następujące tematy:\nPrzedmiot (przedmiot zgodny z opisem, przedmiot niezgodny z opisem)\nOpakowanie (bezpieczne opakowanie, niedbałe opakowanie)\nDostawa (szybko nadane, wolno nadane)\nKomunikacja (profesjonalna, nieprofesjonalna)\nGrzeczność (uprzejmy, nieuprzejmy)\nCena (uczciwa cena, zawyżona)\nTagi te mogą ulec zmianie — ale nawet jeśli tak się stanie, dodane wybrane przez Ciebie dotychczas tagi zawsze pozostaną takie same.",
+        "section": "System ocen",
+        "question": "Co oznaczają tagi w systemie ocen?"
+      },
+      {
+        "text": "W tej chwili nie. Funkcja ta jest planowana w przyszłej wersji nowego Systemu Ocen. Kiedy będzie gotowa, nie będziesz mógł/a z niej skorzystać do ocen wystawionych przed jej udostępnieniem (nie wstecznie).",
+        "section": "System ocen",
+        "question": "Czy mogę wystawić komentarz tekstowy w ocenie?"
+      },
+      {
+        "text": "Oceny są wyświetlane w trzech miejscach:\nW ogłoszeniach każdego sprzedającego – informacje te są widoczne dla wszystkich i obejmują:\nŁączną ocenę sprzedającego w skali od jeden do pięciu. Łączna ocena jest średnią arytmetyczną ocen indywidualnych.\nLiczbę otrzymanych ocen\nNa profilu sprzedającego – informacje te są widoczne dla wszystkich, obejmują one:\nAnalizę ile razy przyznano każdą ocenę w postaci gwiazdek (np. pięć ocen 1- gwiazdkowych, piętnaście ocen 4-gwiazdkowych itp.);\nJak często wybrano określony tag (np. 10 kupujących wybrało tag „Przedmiot zgodny z opisem”);\nListę wszystkich ocen, które otrzymał sprzedający, uporządkowaną od najnowszych do najstarszych. Lista zawiera:\nOcenę (liczbę gwiazdek).\nNazwę ogłoszenia/przedmiotu związanego z oceną.\nNazwę użytkownika na OLX.\nDatę przyznania oceny.\nWszystkie tagi wybrane przez kupującego w celu uzasadnienia oceny.\nW zakładkach Otrzymane oceny i Wystawione oceny – informacje dostępne w tych zakładkach są prywatne dla każdego użytkownika.",
+        "section": "System ocen",
+        "question": "Gdzie wyświetlane są oceny?"
+      },
+      {
+        "text": "Do końca lipca 2024 roku możesz zobaczyć dwie różne oceny na profilu sprzedającego i w ogłoszeniach: ocenę w poprzednim systemie i ocenę w nowym systemie.\nJeśli sprzedający nie ma nowej oceny, oznacza to, że jeszcze jej nie otrzymał. Jeżeli sprzedający nie ma poprzedniej oceny, oznacza to, że nie otrzymał jej, gdy poprzedni system był nadal dostępny.\nAby dowiedzieć się więcej o poprzednich ocenach przeczytaj dodatkowe informacje o tym, jak działał poprzedni system.",
+        "section": "System ocen",
+        "question": "Dlaczego niektórzy sprzedający mają dwie różne oceny?"
+      },
+      {
+        "text": "Jeśli widzisz „poprzednią ocenę” na profilu sprzedającego lub w ogłoszeniach (albo w zakładce Otrzymane oceny), oznacza to, że sprzedający (lub Ty) otrzymaliście oceny, gdy poprzedni system był dostępny.\nDo końca lipca 2024 roku nadal będzie można zobaczyć ocenę, jaką każdy sprzedający miał w poprzednim systemie. Pamiętaj, że ogólna ocena sprzedającego nie była po prostu średnią pojedynczych ocen. Poprzedni system zainspirowany był koncepcją NPS (ang. Net Promoter System), który opiera się na bilansie różnych rodzajów ocen użytkowników. Dlatego wyświetlana archiwalna ocena nie stanowi matematycznej średniej, stosowanej w innych, popularnych modelach systemu ocen. Poprzedni system działał w taki sposób, że wystawionym ocenom „źle”, „dobrze” i „rewelacyjnie” przypisywał określoną wagę (odpowiednio -2, +1 i +2). Następnie oceny te były przekształcane na ocenę jakościową w przedziale 0-10, wg. schematu: a) punkty 0 do 2,5 „nie polecam”, b) od 2,5 do 5 „nieźle”, c) od 5 do 7,5 „dobrze, d) od 7,5 do 10 „rewelacyjnie”.\nAby dowiedzieć się więcej o poprzednich ocenach przeczytaj dodatkowe informacje o tym, jak działał poprzedni system.",
+        "section": "System ocen",
+        "question": "Co to jest „poprzednia ocena”?"
+      },
+      {
+        "text": "Tak, możesz poprosić o listę wszystkich ocen, które otrzymałeś w przeszłości. Aby to zrobić, zaloguj się na swoje konto OLX za pomocą strony internetowej (na komputerze, nie na telefonie) i przejdź do Ustawienia → Zarządzanie kontem → Wyślij wniosek o dane. W ciągu 30 dni prześlemy plik ZIP na Twój adres e-mail. Plik będzie zawierał kilka plików CSV, w tym pliki ze wszystkimi ocenami otrzymanymi i wystawionymi w poprzednim Systemie Ocen.",
+        "section": "System ocen",
+        "question": "Czy mogę odzyskać poprzednie oceny?"
+      },
+      {
+        "text": "Wszystkie oceny, które wystawiasz jako kupujący, są widoczne w Twoje konto → Wystawione oceny. Są one uporządkowane od najnowszej do najstarszej. Klikając przycisk Pokaż obok każdej oceny zobaczysz:\nNazwę użytkownika na OLX.\nNazwę ogłoszenia/przedmiotu związanego z oceną.\nDatę zamówienia przedmiotu.\nDatę wystawienia oceny.\nOcenę (liczbę gwiazdek).\nWszystkie tagi wybrane przez Ciebie w celu uzasadnienia swojej oceny.\nOceny mogą być usunięte w określonych przypadkach. Usunięcie oceny zostanie wyraźnie zaznaczone na liście wystawionych ocen wraz z powodem usunięcia (sprawdź dodatkowe informacje).",
+        "section": "System ocen",
+        "question": "Jak mogę zobaczyć oceny, które wystawiłem?"
+      },
+      {
+        "text": "Wszystkie oceny, które otrzymujesz jako sprzedający, są widoczne w Twoje konto → Otrzymane oceny i są uporządkowane od najnowszej do najstarszej. Zobaczysz:\nOcenę (liczbę gwiazdek).\nNazwę ogłoszenia/przedmiotu związanego z oceną wraz z identyfikatorem (ID).\nNazwę użytkownika na OLX.\nDatę przyznania oceny.\nWszystkie tagi wybrane przez kupującego w celu uzasadnienia oceny.\nOceny można usunąć. Jeśli tak się stanie, zostanie to wyraźnie zaznaczone w na liście otrzymanych ocen wraz z powodem usunięcia (sprawdź dodatkowe informacje).",
+        "section": "System ocen",
+        "question": "Jak mogę zobaczyć oceny, które otrzymałem?"
+      },
+      {
+        "text": "Za każdym razem, gdy jako sprzedający otrzymasz nową ocenę, zostaniesz o tym powiadomiony za pomocą wiadomości e-mail i powiadomienia push. Wszystkie oceny, które otrzymasz, znajdziesz także w zakładce Otrzymane oceny od razu po ich otrzymaniu.",
+        "section": "System ocen",
+        "question": "Jak zostanę powiadomiony, kiedy otrzymam nową ocenę?"
+      },
+      {
+        "text": "Twoja łączna ocena jako sprzedającego to średnia wszystkich ocen (liczby gwiazdek), które otrzymałeś. Na przykład, jeśli uzyskałeś:\nDziewięć ocen 5-gwiazdkowych\nCztery oceny 4-gwiazdkowe\nDwie oceny 3-gwiazdkowe\nJedną ocenę 1-gwiazdkową\nTwoja ocena jako sprzedającego wyniesie wówczas 4,2 gwiazdki (68 gwiazdek / 16 ocen = 4,2 ocena sprzedającego).",
+        "section": "System ocen",
+        "question": "Jak obliczana jest moja ocena jako sprzedającego?"
+      },
+      {
+        "text": "Tak, oceny mogą zostać usunięte, ale wyłącznie przez OLX i tylko wtedy, gdy nie są zgodne z naszym Regulaminem lub z przepisami prawa. Sprzedający ani kupujący nie mogą samodzielnie usuwać ocen.  Aby ocena została usunięta konieczne jest wskazanie powodu usunięcia, a także uzasadnienia, które to potwierdzi.\nPowód usunięcia\nWyjaśnienie\nNieprawdziwa ocena\nOcena nie odzwierciedla rzeczywistego przebiegu Transakcji lub zawiera fałszywe lub nieuczciwe oskarżenie wobec sprzedającego (pkt 14a.11.a Regulaminu OLX).\nOcena nie dotyczy transakcji\nOcena nie dotyczy przebiegu transakcji z Przesyłką OLX z danym sprzedającym. Ocena mogła odnosić się do innej transakcji, stanowić recenzję nabytego towaru albo odnosić się do OLX (pkt 14a.11.b Regulaminu OLX).\nSamoocena\nJedno lub kilka kont zostało utworzonych w celu sztucznego podwyższenia oceny sprzedającego (pkt 14a.11.c Regulaminu OLX).\nBłąd kupującego\nOcena usunięta z powodu pomyłki lub przypadkowego wystawienia oceny niewłaściwemu sprzedającemu za zgodą kupującego (pkt 14a.11.d Regulaminu OLX).\nSztuczna ocena\nOcena wystawiona w celu sztucznego zawyżenia lub zaniżenia ogólnej oceny sprzedającego (pkt 14a.11.e Regulaminu OLX).\nOcena z niewiarygodnego konta\nOcena wystawiona została z konta utworzonego na podstawie tymczasowego adresu e-mail\n(pkt 14a.11.f Regulaminu OLX).\nOcena wystawiona automatycznie\nOcena została wystawiona w sposób wskazujący na zautomatyzowanie wystawienia (pkt 14a.11.g Regulaminu OLX).\nOcena wystawiona za korzyść\nOcena została wystawiona w zamian za korzyść, np. rabat albo gratis, (pkt 14a.11.h Regulaminu OLX).\nOcena naruszająca prawo lub regulamin OLX\nOcena wystawiona z naruszeniem innych postanowień regulaminu OLX lub przepisów prawa (pkt 14a.11.i Regulaminu OLX).\nJako sprzedający możesz w dowolnym momencie poprosić nas o usunięcie oceny. Oto, jak to zrobisz:\nSkontaktuj się z nami za pomocą Centrum Pomocy;\nWskaż ocenę, którą chcesz, abyśmy usunęli (identyfikator (ID) ogłoszenia, tytuł ogłoszenia, data wystawienia oceny, nazwę użytkownika);\nWyjaśnij, dlaczego chcesz, abyśmy usunęli ocenę i wskaż stosowne dowody na uzasadnienie usunięcia oceny.\nRozpatrzymy dokładnie Twoją sprawę i poinformujemy Cię o naszej decyzji w ciągu 14 dni. Jeżeli potwierdzimy, że istnieje ważny, wskazany w Regulaminie powód, aby usunąć ocenę:\nZarówno Ty, jak i kupujący zostaniecie o tym powiadomieni poprzez wiadomość e-mail. Powód usunięcia oceny jest zawsze udostępniany kupującemu i sprzedającemu.\nOcena zostanie usunięta z profilu sprzedającego.\nOcena nie będzie zaliczana do obliczenia oceny sprzedającego.\nOcena sprzedającego zostanie obliczona ponownie.\nZarówno Ty, jak i kupujący będziecie mogli nadal zobaczyć ocenę w zakładce Otrzymane oceny i Wystawione oceny – ocena będzie mieć oznaczenie „Usunięto” i będzie widoczna tylko dla Ciebie i\nkupującego wraz z powodem usunięcia.\nNależy pamiętać: Jeśli otrzymana ocena zostanie usunięta, kupujący nie będzie mógł ponownie wystawić Ci oceny dotyczącej tej konkretnej sprzedaży.\nJako kupujący możesz także poprosić nas o usunięcie oceny, którą wystawiłeś w przeszłości. Oto, jak to zrobisz:\nSkontaktuj się z nami za pomocą Centrum Pomocy;\nWskaż ocenę, którą chcesz, abyśmy usunęli (tytuł ogłoszenia, data wystawienia oceny, nazwę użytkownika);\nWyjaśnij, dlaczego chcesz, abyśmy usunęli ocenę.\nRozpatrzymy dokładnie Twoją sprawę i poinformujemy Cię o naszej decyzji w ciągu 14 dni. Jeżeli potwierdzimy, że istnieje ważny i wskazany w Regulaminie powód, aby usunąć ocenę:\nZarówno Ty, jak i sprzedający zostaniecie o tym powiadomieni poprzez wiadomość e-mail. Powód usunięcia oceny jest zawsze udostępniany sprzedającemu.\nOcena zostanie usunięta z profilu sprzedającego.\nOcena nie będzie zaliczana do obliczenia oceny sprzedającego.\nOcena sprzedającego zostanie obliczona ponownie.\nZarówno Ty, jak i sprzedający będziecie mogli nadal zobaczyć ocenę w zakładce Otrzymane oceny i Wystawione oceny – ocena będzie mieć oznaczenie „Usunięto” i będzie widoczna tylko dla Ciebie i sprzedającego wraz z powodem usunięcia.\nNależy pamiętać: Jeśli wystawiona ocena zostanie usunięta, nie będziesz mógł ponownie ocenić sprzedającego w związku z tą konkretną sprzedażą.",
+        "section": "System ocen",
+        "question": "Czy oceny można usunąć? Kiedy i w jaki sposób?"
+      },
+      {
+        "text": "Nie, jest to możliwe tylko w przypadku, gdy zamówienie zostało dostarczone. Oznacza to, że sprzedającego można ocenić tylko wtedy, gdy kupujący otrzyma przedmiot, który od niego kupił z Przesyłką OLX.\nNie wystarczy, że przedmiot dotrze do punktu odbioru — kupujący musi go odebrać, zanim będzie mógł wystawić ocenę.",
+        "section": "System ocen",
+        "question": "Czy mogę wystawić ocenę, jeśli zamówienie zostało anulowane?"
+      },
+      {
+        "text": "Nie, jest to możliwe tylko w przypadku, gdy zamówienie zostało oznaczone jako dostarczone. Oznacza to, że sprzedającego można ocenić tylko wtedy, gdy kupujący otrzyma przedmiot, który od niego kupił z Przesyłką OLX.\nNie wystarczy, że przedmiot dotrze do punktu odbioru — kupujący musi go odebrać, zanim będzie mógł wystawić ocenę.",
+        "section": "System ocen",
+        "question": "Czy mogę wystawić ocenę, jeśli nie odebrałem lub nie przyjąłem przedmiotu?"
+      },
+      {
+        "text": "Nie, wystawienie i otrzymanie oceny jest możliwe tylko wtedy, gdy przedmiot jest kupowany/sprzedawany z Przesyłką OLX. Tylko w ten sposób możemy zweryfikować, czy transakcja rzeczywiście miała miejsce pomiędzy kupującym a sprzedającym. W związku z tym obecnie pozwalamy wystawiać oceny wyłącznie w tym przypadku.\nW przeciwieństwie do poprzedniego Systemu Ocen, nowy system nie pozwala obecnie na wystawianie ocen wyłącznie na podstawie komunikacji (np. wymiana wiadomości na czacie OLX).",
+        "section": "System ocen",
+        "question": "Czy mogę wystawić ocenę lub ją otrzymać, jeśli nie kupuję albo nie sprzedaję za pomocą Przesyłki OLX?"
+      },
+      {
+        "text": "Ocena: Liczba wyrażona w postaci gwiazdek, używana przez kupujących do oceny zakupu u sprzedającego.\nGwiazdki: Pozwalają ocenić zadowolenie kupującego z przebiegu transakcji z Przesyłką OLX z danym sprzedającym. Kupujący mogą oceniać sprzedających używając od jednej do pięciu gwiazdek.\nTagi: Wybrane, określone wcześniej pozytywne i negatywne aspekty, które można wybrać, aby uzasadnić wystawioną oceną. Pod uwagę branych jest kilka czynników, takich jak opakowanie, szybkość dostawy i komunikacja.\nŁączna ocena sprzedającego: Łączna ocena sprzedającego to średnia wszystkich ocen (liczba gwiazdek) otrzymanych od kupujących. Jest wyrażana w postaci liczby od 1 do 5 i służy do oceny działań oraz wiarygodności sprzedającego na OLX. Jest to jeden z czynników, które pomagają potencjalnym nabywcom podejmować świadome decyzje związane z zakupami.\nZweryfikowana ocena: Ocena dotycząca transakcji z Przesyłką OLX, wystawiona po odebraniu  przesyłki przez kupującego.\nProśba o ocenę: Sposób, w jaki prosimy kupującego o wystawienie oceny za pośrednictwem wiadomości e-mail i (lub) powiadomienia push.",
+        "section": "System ocen",
+        "question": "Słownik systemu ocen"
+      }
+    ]
+  },
+  {
+    "course": "olx-tc",
+    "documents": [
+      {
+        "text": "cena, której wysokość jest zmienna, w odpowiedzi na popyt rynkowy. Aktualna wysokość ceny dynamicznej jest dostępna podczas uzupełniania formularza Ogłoszenia lub przed zakupem danej usługi.",
+        "section": "Definicje",
+        "question": "cena dynamiczna"
+      },
+      {
+        "text": "cena uwzględniająca podatek VAT i podatek akcyzowy (jeżeli ma zastosowanie), za którą Przedmiot lub Usługa są oferowane dla Kupujących.",
+        "section": "Definicje",
+        "question": "Cena końcowa"
+      },
+      {
+        "text": "usługa przyjmowania, sortowania, przemieszczania i doręczania Przedmiotów objętych Transakcją, realizowana na rzecz Użytkownika przez podmiot trzeci. Grupa OLX nie świadczy usług Dostawy, w szczególności usług pocztowych. Lista podmiotów, spośród których Użytkownik może wybrać świadczącego usługę Dostawy jest określona przez (i) Alsendo sp. z o.o. albo (ii) w przypadkach wskazanych w Serwisie - przez Grupę OLX.",
+        "section": "Definicje",
+        "question": "Dostawa"
+      },
+      {
+        "text": "oznacza następujące kolejno po sobie 24 godziny.",
+        "section": "Definicje",
+        "question": "Dzień"
+      },
+      {
+        "text": "osoba fizyczna korzystająca z Serwisu, nieposiadająca Konta lub do niego niezalogowana.",
+        "section": "Definicje",
+        "question": "Gość"
+      },
+      {
+        "text": "Grupa OLX sp. z o. o. z siedzibą w Poznaniu (ul. Królowej Jadwigi 43, 61-872, Poznań), wpisana do rejestru przedsiębiorców prowadzonego przez Sąd Rejonowy Poznań – Nowe Miasto i Wilda w Poznaniu, Wydział VIII Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS: 0000568963, kapitał zakładowy 1 543 000,00 złotych, NIP: 7792433421. Kontakt z Grupą OLX jest możliwy pod adresem: pomoc@olx.pl lub za pomocą innych wskazanych w Serwisie kanałów komunikacji.",
+        "section": "Definicje",
+        "question": "Grupa OLX"
+      },
+      {
+        "text": "Gość lub Użytkownik przeglądający Ogłoszenia w kategorii Praca lub korzystający z dedykowanych funkcjonalności określonych w Załączniku nr 1 “OLX Praca”.",
+        "section": "Definicje",
+        "question": "Kandydat"
+      },
+      {
+        "text": "kategoria tematyczna (np. Motoryzacja czy Elektronika), do której przypisane jest Ogłoszenie. Kategoria może dzielić się na powiązane tematycznie podkategorie.",
+        "section": "Definicje",
+        "question": "Kategoria"
+      },
+      {
+        "text": "Użytkownik będący osobą fizyczną, dokonujący w Serwisie czynności niezwiązanych bezpośrednio z jego działalnością gospodarczą lub zawodową.",
+        "section": "Definicje",
+        "question": "Konsument"
+      },
+      {
+        "text": "zbiór danych powiązanych z danym Użytkownikiem, obejmujący informacje o jego aktywności w Serwisie, w tym informacje podawane przez Użytkownika w Serwisie. Zasady dotyczące Konta zostały określone w punkcie 3 Regulaminu.",
+        "section": "Definicje",
+        "question": "Konto"
+      },
+      {
+        "text": "Użytkownik dokonujący ze Sprzedającym Transakcji z wykorzystaniem funkcjonalności Serwisu.",
+        "section": "Definicje",
+        "question": "Kupujący"
+      },
+      {
+        "text": "przewidziana dla wybranych Kategorii liczba bezpłatnych Ogłoszeń, które Użytkownik może opublikować w Serwisie w danym czasie. Limity w poszczególnych Kategoriach mogą być wykorzystywane niezależnie.",
+        "section": "Definicje",
+        "question": "Limit"
+      },
+      {
+        "text": "propozycja sprzedaży lub świadczenia Przedmiotu sporządzona przez Sprzedającego lub zaproszenie do uczestnictwa w procesie rekrutacyjnym sporządzone przez Pracodawcę i opublikowane w Serwisie na zasadach określonych w punkcie 4 Regulaminu.",
+        "section": "Konta",
+        "question": "Ogłoszenie"
+      },
+      {
+        "text": "W celu uzyskania pełnej funkcjonalności Serwisu Gość powinien (1) dokonać Rejestracji Konta, (2) określić czy korzysta z Serwisu prywatnie czy jako przedsiębiorca i (3) korzystać z Serwisu jako zalogowany Użytkownik. Konto daje Użytkownikowi możliwość korzystania m.in. z następujących funkcjonalności Serwisu:\npublikowania i zarządzania opublikowanymi Ogłoszeniami;\nobserwowania Ogłoszeń innych Użytkowników;\nzarządzania płatnościami i fakturami związanymi z usługami świadczonymi w Serwisie przez Grupę OLX;\nwysyłania i odbierania wiadomości do innych Użytkowników;\nzamówienie Usług Promowania;\nzawierania Transakcji z wykorzystaniem usługi Przesyłki OLX;\nudostępnianych zgodnie z Załącznikiem nr 1 “OLX Praca”;\nlogowania oraz założenia konta w prowadzonym przez Grupę OLX serwisie Fixly, dostępnym pod adresem www.fixly.pl. Aby skorzystać z tej możliwości Użytkownik musi podczas logowania z wykorzystaniem danych konta OLX zaakceptować regulamin serwisu Fixly. Opcja ta możliwa jest jedynie w przypadku logowania oraz założenia konta w serwisie Fixly jako Wykonawca, w rozumieniu wynikającym z regulaminu Fixly oraz korzystania z Serwisu poprzez przeglądarkę internetową (opcja niedostępna w aplikacji mobilnej OLX.pl).",
+        "section": "Konta",
+        "question": "Pełna funkcjonalność konta"
+      },
+      {
+        "text": "Użytkownikiem może być wyłącznie osoba fizyczna posiadająca pełną zdolność do czynności prawnych, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, której ustawa przyznaje zdolność prawną. W przypadku osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej, utworzyć Konto w ich imieniu oraz dokonywać wszelkich czynności w ramach Serwisu może jedynie osoba umocowana do działania w tym zakresie w imieniu tych podmiotów.",
+        "section": "Konta",
+        "question": "Kto może być użytkownikiem?"
+      },
+      {
+        "text": "Użytkownik może posiadać tylko jedno Konto w Serwisie. Powyższa zasada nie dotyczy przypadków, gdy:\nUżytkownik posiada jedno Konto służące do celów prywatnych oraz, z zastrzeżeniem podpunktu b poniżej, Konta służące do celów związanych z prowadzoną przez niego działalnością gospodarczą;\nUżytkownik wykorzystuje różne Konta w zakresie prowadzonej przez niego działalności gospodarczej w związku z obsługą tych Kont przez różnych przedstawicieli lub oddziały prowadzonego przez Użytkownika przedsiębiorstwa, z zastrzeżeniem, że w zakresie żadnego z Kont nie istnieje opóźnienie w płatnościach z tytułu usług świadczonych przez Grupę OLX, a zamieszczane na Kontach Ogłoszenia nie powtarzają się w zakresie tych samych lokalizacji;\nzaistnieje konieczność założenia kolejnego Konta z uwagi na brak możliwości uzyskania dostępu do Konta (zapomnienie hasła);\nprzy czym wszystkie wyłączenia w tym zakresie będą szczegółowo weryfikowane przez Grupę OLX, która uprawniona jest do zawieszenia Konta na czas weryfikacji lub usunięcia Kont w przypadku braku potwierdzenia okoliczności uzasadniających zastosowanie powyższego wyłączenia. Powyższe wyłączenia nie mają zastosowania jeśli są wykorzystywane przez Użytkownika wyłącznie w celu do unikania płatności należności z tytułu świadczonych w ramach Serwisu usług.",
+        "section": "Konta",
+        "question": "Wiele kont użytkownika"
+      },
+      {
+        "text": "wypełnienia formularza dostępnego w Serwisie i podania wymaganych tam danych, w tym adresu email Użytkownika oraz unikalnego hasła lub uwierzytelnienia za pośrednictwem zewnętrznego usługodawcy jak np. Facebook, Google lub Apple;\nzapoznania się z Regulaminem i jego załącznikami oraz akceptacji ich postanowień.",
+        "section": "Konta",
+        "question": "Rejestracja Konta wymaga:"
+      },
+      {
+        "text": "Grupa OLX przetwarza dane osobowe Użytkowników, osób działających w imieniu Użytkowników oraz Gości zgodnie z postanowieniami Polityki Prywatności oraz Polityką dotyczącą Cookies i Podobnych Technologii.",
+        "section": "Konta",
+        "question": "Jak OLX przetwarza dane?"
+      },
+      {
+        "text": "Po wypełnieniu danych wymaganych do Rejestracji na adres email wskazany przez Użytkownika przesłane zostanie potwierdzenie Rejestracji Konta, link do aktywacji Konta oraz aktualny Regulamin. Rejestracja zostaje zakończona w momencie aktywacji Konta przez Użytkownika. Z tym momentem dochodzi do zawarcia umowy usługi Konta. W przypadku niedokonania aktywacji w ciągu 30 Dni od otrzymania emaila potwierdzającego Rejestrację Konta, link aktywacyjny wygasa a Konto nie zostaje aktywowane. Korzystający może dokonać Rejestracji od nowa z wykorzystaniem tego samego adresu email dopiero po uprzednim skontaktowaniu się z Grupą OLX: za pomocą formularza kontaktowego.",
+        "section": "Konta",
+        "question": "Aktywacja konta"
+      },
+      {
+        "text": "Użytkownik ma obowiązek w procesie Rejestracji oraz w toku korzystania z Serwisu podać dane prawdziwe, poprawne i aktualne i do których wykorzystywania jest uprawniony. Użytkownik zobowiązany jest do aktualizacji danych w razie ich zmiany. Grupa OLX ma prawo do blokady Konta w przypadku, gdy podane dane nie będą spełniały powyższych wymogów, zgodnie z procedurą określoną w punkcie 13 Regulaminu.",
+        "section": "Konta",
+        "question": "Podanie nieprawdziwych danych"
+      },
+      {
+        "text": "Osoba działająca w ramach Serwisu w imieniu i na rzecz Użytkownika będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, której ustawa przyznaje zdolność prawną, musi być należycie upoważniona do działania i dokonywania w ramach Serwisu wszelkich czynności imieniu i na rzecz takiego Użytkownika. Grupa OLX ma prawo do dokonania dodatkowej weryfikacji takiej osoby poprzez żądanie dokumentu potwierdzającego umocowanie do działania w imieniu Użytkownika.",
+        "section": "Konta",
+        "question": "Osoba działająca w ramach Serwisu w imieniu i na rzecz Użytkownika"
+      },
+      {
+        "text": "Użytkownik zobowiązuje się do zachowania danych dostępu do Konta w tajemnicy i do ich ochrony przed dostępem przez osoby trzecie. Użytkownik niezwłocznie poinformuje Grupę OLX w razie powzięcia wiadomości o pozyskaniu danych dostępu do Konta przez niepowołane osoby trzecie i w miarę możliwości dokona niezwłocznej ich zmiany.",
+        "section": "Konta",
+        "question": "Poufność danych dostępu"
+      },
+      {
+        "text": "Umowa usługi Konta zostaje zawarta na czas nieokreślony z chwilą aktywacji Konta. Umowa usługi Konta może zostać rozwiązana przez Użytkownika z zachowaniem poniższych zasad:\nprawo do usunięcia Konta pozostaje bez wpływu na uprawnienia Użytkownika do prawa odstąpienia lub wypowiedzenia umowy, przewidzianych przepisami prawa oraz niniejszym Regulaminem;\nusunięcie Konta możliwe jest poprzez: (i) wybranie odpowiedniej opcji w panelu Konta, (ii) przesłanie oświadczenia o rozwiązaniu za pomocą formularza kontaktowego lub (iii) przesłanie oświadczenia o rozwiązaniu pisemnie na adres Grupy OLX;\nwraz z usunięciem Konta przez Użytkownika wygasają pozostałe umowy łączące Grupę OLX z Użytkownikiem dotyczące usług świadczonych w ramach Serwisu;\nrozwiązanie umowy Konta będzie skuteczne od chwili jego dokonania (na przyszłość), Grupa OLX dokona zwrotu Konsumentom równowartości niewykorzystanych kwot w ramach Usług Odpłatnych;\nw przypadku, gdy Użytkownik ma zgromadzone środki na Portfelu OLX, rozwiązanie Konta jest możliwe tylko po uprzednim skontaktowaniu się z Grupą OLX za pomocą formularza kontaktowego celu wypłaty tych środków, o czym Użytkownik będzie informowany przy próbie usunięcia Konta wraz z rozwiązaniem umowy;\npo usunięciu Konta albo rozwiązaniu umowy Konta, Użytkownik traci dostęp do informacji przekazanych lub wygenerowanych w toku korzystania z Serwisu.",
+        "section": "Konta",
+        "question": "Czas zawarcia umowy usługi konta"
+      },
+      {
+        "text": "Grupa OLX uprawniona jest do rozwiązania umowy z Użytkownikiem, jeśli Użytkownik:\nnie zalogował się na Koncie przez okres dłuższy niż 24 miesiące. W rezultacie Użytkownik nie będzie już uprawniony do korzystania z usuniętego Konta. Informacja o rozwiązaniu umowy zostanie wysłana Użytkownikowi z 30-dniowym wyprzedzeniem na adres e-mail podany podczas Rejestracji. Użytkownik będzie mógł wyrazić chęć dalszego korzystania z Konta korzystając z udostępnionej w tym celu funkcjonalności wymagającej zalogowania się Użytkownika do Konta. Prawo Grupy OLX do rozwiązania umowy zgodnie z niniejszym postanowieniem nie ogranicza prawa Użytkownika do ponownej rejestracji w Serwisie. Grupa OLX nie gwarantuje jednak, że dotychczasowa nazwa Użytkownika powiązana z Kontem będzie dostępna do użycia podczas nowej rejestracji;\npomimo uprzedniego wezwania go przez Grupę OLX do zaprzestania określonych działań lub zaniechań naruszających postanowienia Regulaminu lub przepisy prawa powszechnie obowiązującego, kontynuuje wskazane w wezwaniu działania.",
+        "section": "Konta",
+        "question": "Grupa OLX uprawniona jest do rozwiązania umowy z Użytkownikiem"
+      },
+      {
+        "text": "W celu zapewnienia zgodności Serwisu z wymaganiami obowiązującego prawa regulującego działalność platform internetowych, prawidłowego funkcjonowania Serwisu, ochrony i zapewnienia bezpieczeństwa korzystających z niego osób, Grupa OLX zastrzega sobie prawo do zwrócenia się do Użytkowników Biznesowych o przekazanie dodatkowych danych lub dokonania dodatkowej weryfikacji aktualności i prawdziwości danych podanych przez Użytkownika oraz żądania potwierdzenia przez Użytkownika jego tożsamości, informacji zawartych w Ogłoszeniu lub informacji związanych z dokonaną Transakcją w sposób wybrany przez Grupę OLX lub wynikający z obowiązujących przepisów. Jeśli weryfikacja danych lub tożsamości Użytkownika nie powiedzie się, Grupa OLX może zawiesić lub zablokować działanie Konta na zasadach określonych w punkcie 13 Regulaminu.",
+        "section": "Konta",
+        "question": "Dodatkowe infrormacje przy rozwiażaniu umowy z użytkownikiem"
+      },
+      {
+        "text": "Odstąpienie konsumenckie. Konsument lub osoba fizyczna zawierająca umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie posiada ona dla tej osoby charakteru zawodowego, może w terminie 14 dni od dnia zawarcia umowy z Grupą OLX odstąpić od umowy dotyczącej danej usługi bez podania przyczyny, składając oświadczenie w tym zakresie za pomocą formularza kontaktowego lub pisemnie na adres Grupy OLX. Wraz z odstąpieniem od umowy usługi Konta wygasają pozostałe umowy łączące Grupę OLX z Użytkownikiem. Wzór formularza o odstąpieniu od umowy, z którego Użytkownik może skorzystać, określony jest w pouczeniu, stanowiącym Załącznik nr 4 “Wzór oświadczenia o odstąpieniu”.",
+        "section": "Konta",
+        "question": "Odstąpienie konsumenckie"
+      },
+      {
+        "text": "Umowa usługi Konta może zostać rozwiązana przez Użytkownika Biznesowego z zachowaniem reguł wskazanych w punkcie 3.10. w przypadku braku akceptacji zmian do Regulaminu, o których Użytkownik zostanie poinformowany zgodnie z punktem 18.1. b i c. W takim przypadku, w celu rozwiązania umowy w zakresie usługi Konta, Użytkownik Biznesowy powinien niezwłocznie, nie później niż w terminie 15 dni od ogłoszenia zmian powiadomić o tym Grupę OLX. Rozwiązanie przez Użytkownika w powyższym trybie umowy w zakresie usługi Konta odnosi skutek po upływie 15 dni od powiadomienia Użytkownika o zmianach Regulaminu, chyba że Użytkownik Biznesowy zrezygnuje z takiego powiadomienia albo złoży w tym zakresie stosowne oświadczenie lub podejmie wyraźne działanie w Serwisie potwierdzające akceptację takich warunków (np. publikacja nowego Ogłoszenia).",
+        "section": "Konta",
+        "question": "Umowa usługi Konta może zostać rozwiązana"
+      },
+      {
+        "text": "Deklaracja użytkownika odnośnie do tego, czy korzysta z Serwisu jako przedsiębiorca czy prywatnie- a w tym publikuje Ogłoszenia i zawiera Transakcje z usługami Przesyłki OLX i Płatności OLX - dotyczy całej aktywności Użytkownika w Serwisie.",
+        "section": "Konta",
+        "question": "Deklaracja użytkownika odnośnie do tego, czy korzysta z Serwisu jako przedsiębiorca czy prywatnie"
+      },
+      {
+        "text": "Użytkownik zawierając Transakcje, a w tym Transakcje z usługami Płatności OLX i Przesyłki OLX zobowiązany jest działać zgodnie ze swoją deklaracją odnośnie do charakteru, w którym korzysta z Serwisu - tj. działać jako przedsiębiorca albo prywatnie.",
+        "section": "Konta",
+        "question": "Użytkownik zawierając Transakcje"
+      },
+      {
+        "text": "Użytkownik Biznesowy jest zobowiązany do przekazania Grupie OLX swoich danych identyfikacyjnych i kontaktowych by publikować Ogłoszenia w Serwisie, korzystać z usług promowania oraz z usług Przesyłki OLX i Płatności OLX. Dane identyfikacyjne i kontaktowe Użytkowników Biznesowych są publikowane w Serwisie.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Użytkownik Biznesowy"
+      },
+      {
+        "text": "w granicach prawa i dobrych obyczajów obowiązujących społeczeństwo informacyjne, z poszanowaniem praw i dóbr innych osób. W szczególności, Użytkownik zobowiązuje się do:\nniepodejmowania działań, które mogłyby zakłócić prawidłowe funkcjonowanie Serwisu, w tym do nieingerowania w zawartość Serwisu, Konta lub Kont innych Użytkowników, czy też w elementy informatyczne Serwisu;\nniepodejmowania działań bezprawnych, w tym przesyłania lub publikowania z wykorzystaniem funkcjonalności Serwisu treści naruszających przepisy prawa, dobra osobiste, treści zawierających lub rozpowszechniających pornografię dziecięcą lub treści terrorystycznych i naruszających cudze prawa własności intelektualnej, a także treści o charakterze dyskryminującym lub rasistowskim;\nnieprowadzenia z wykorzystaniem funkcjonalności Serwisu sprzedaży (lub niepodejmowania innych mających podobny skutek działań) Przedmiotów wymienionych Załączniku nr 5 “Przedmioty zakazane i dopuszczone warunkowo” lub prowadzenia ich sprzedaży bez spełnienia warunków wymaganych zgodnie z Załącznikiem nr 5, a także innych Przedmiotów, o ile obrót nimi jest wyłączony ze względu na obowiązujące przepisy prawa, a także Przedmiotów pochodzących z kradzieży lub co do których toczy się spór sądowy lub administracyjny albo też Przedmiotów objętych postępowaniem egzekucyjnym lub wchodzących w skład masy upadłościowej lub sanacyjnej;\nniewprowadzania osób korzystających z Serwisu oraz Grupy OLX w błąd, np. poprzez podawanie nieprawdziwych informacji dotyczących Przedmiotu albo zatajenie istotnych informacji;\npowstrzymywania się od działania w złej wierze, od nadużywania funkcjonalności Serwisu, korzystania z Serwisu niezgodnie z jego przeznaczeniem i wbrew Regulaminowi;\nniewprowadzanie w błąd Użytkowników co do stanu, cech i elementów Przedmiotu oraz innych warunków Transakcji - w tym okoliczności, o których mowa w pkt I.4 Załącznika nr 8 do Regulaminu.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "13.1 Użytkownik uprawniony jest do korzystania z Serwisu zgodnie z jego przeznaczeniem,"
+      },
+      {
+        "text": "na każdym etapie korzystania z Serwisu, w stosunku do każdej oferowanej funkcjonalności, w tym w szczególności w przypadku publikacji Ogłoszeń i przesyłania wiadomości do innych Użytkowników.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Użytkownik zobowiązany jest przestrzegać zobowiązania określonego w punkcie 13.1 Regulaminu"
+      },
+      {
+        "text": "odbywa się w sposób zautomatyzowany, z wykorzystaniem interfejsu Serwisu, a Grupa OLX nie weryfikuje automatycznie wszystkich treści przesyłanych z wykorzystaniem funkcjonalności Serwisu.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Publikowanie lub przesyłanie jakichkolwiek treści w Serwisie"
+      },
+      {
+        "text": "w Serwisie, Grupa OLX uprawniona do przeprowadzenia badania, czy zaktualizowana treść nie narusza Regulaminu oraz podjęcia odpowiednich działań, włączając w to usunięcie treści naruszających Regulamin lub przepisy obowiązującego prawa.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "W razie zmian w treści Ogłoszenia dokonanych przez Użytkownika po jego publikacji"
+      },
+      {
+        "text": "rozpowszechnianych z wykorzystaniem funkcjonalności Serwisu, za pośrednictwem funkcjonalności “zgłoś naruszenie” dostępnej w ramach Ogłoszenia („Zgłoszenie nadużycia”). Zgłaszający powinien w miarę możliwości podać dane umożliwiające Grupie OLX dokonanie weryfikacji Zgłoszenia nadużycia, w tym w szczególności ID Ogłoszenia, wyjaśnienie powodów, dla których uznaje daną treść za bezprawną lub sprzeczną z Regulaminem oraz, jeżeli jest to wymagane w formularzu zgłoszenia, danych kontaktowych.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Każda osoba korzystająca z Serwisu ma możliwość zgłoszenia Grupie OLX treści bezprawnych lub sprzecznych z Regulaminem,"
+      },
+      {
+        "text": "niezwłocznie zablokować daną treść, w tym w szczególności Ogłoszenie, a także związane z nią Usługi Promowania. W przypadku blokady, treść nie będzie widoczna ani dostępna dla osób korzystających z Serwisu ani w panelu Konta danego Użytkownika;\npodjąć właściwe czynności wyjaśniające, dążąc do ustalenia okoliczności sprawy, działając proporcjonalnie i rozsądnie, w tym przykładowo poprzez kontakt z podmiotem zgłaszającym nadużycie, dostawcą danej treści, właściwym organem lub zewnętrznym doradcą;\npoinformować, w razie dokonania blokady danej treści, najpóźniej z chwilą gdy blokada staje się skuteczna, dostawcę danej treści w formie wiadomości email, ze wskazaniem zablokowanej treści, powodów decyzji o blokadzie (w tym treści Zgłoszenia nadużycia po jego zanonimizowaniu o ile wymagają tego powszechnie obowiązujące przepisy prawa), wskazaniem podstaw decyzji z powołaniem treści Regulaminu;\npostanowienia punktu 13.6.c) nie stosuje się, jeżeli z zawiadomienia właściwego organu publicznego, z bezwzględnie obowiązujących przepisów prawa lub z potrzeby zapewnienia bezpieczeństwa życia lub zdrowia osób lub państwa, wynika obowiązek nieujawniania informacji o których mowa w tym punkcie.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "W razie uzyskania wiarygodnej wiadomości (na podstawie Zgłoszenia nadużycia lub w inny sposób) o tym, że treść przesyłana czy publikowana z wykorzystaniem funkcjonalności Serwisu ma bezprawny charakter lub narusza postanowienia Regulaminu, Grupa OLX może:"
+      },
+      {
+        "text": "poprzez złożenie sprzeciwu od przekazania przez Grupę OLX informacji o blokadzie danej treści. Postanowienia regulujące postępowanie reklamacyjne stosuje się odpowiednio.\nW przypadku uznania sprzeciwu, o którym mowa w pkt 13.7. za zasadny lub w razie niebudzącego wątpliwości ustania okoliczności uzasadniających bezprawność lub sprzeczność z Regulaminem danej treści:\nzablokowana treść zostaje przywrócona, poprzez jej udostępnienie w postaci kopii roboczej Ogłoszenia lub wiadomości dostępnej na Koncie. Użytkownik będzie mógł podjąć decyzję o jej publikacji lub przesłaniu za pośrednictwem Serwisu;\njeżeli Ogłoszenie było objęte jedną z Usług Odpłatnych, pobrana wcześniej opłata za emisję Ogłoszenia oraz związanych z danym Ogłoszeniem Usług Odpłatnych będzie zwracana na konto Użytkownika, w postaci punktów służących do ponownego skorzystania z usług Serwisu, w terminie 90 Dni liczonych od chwili usunięcia danego Ogłoszenia (jeden punkt odpowiada wartości 1 PLN). Na wniosek Użytkownika opłata może zostać zwrócona w formie pieniężnej, bezpośrednio na rachunek bankowy, z którego została dokonana płatność lub zgodnie z użytą metodą płatności.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "13.7 Użytkownik Biznesowy ma możliwość zakwestionowania decyzji w przedmiocie blokady treści przesyłanej czy publikowanej przez niego z wykorzystaniem funkcjonalności Serwisu,"
+      },
+      {
+        "text": "za bezzasadny lub niewniesienia przez Użytkownika Biznesowego sprzeciwu w terminie 7 dni od pozyskania informacji określonej w punkcie 13.6.c.:\nzablokowana treść zostaje bezpowrotnie usunięta z Serwisu;\njeżeli dana treść była objęta jedną z Usług Odpłatnych, pobrana wcześniej opłata za emisję Ogłoszenia oraz związanych z danym Ogłoszeniem Usług Odpłatnych będzie zwracana na konto Użytkownika, w postaci punktów służących do ponownego skorzystania z usług Serwisu, w terminie 90 Dni liczonych od chwili usunięcia danego Ogłoszenia (jeden punkt odpowiada wartości 1 PLN). Na wniosek Użytkownika opłata może zostać zwrócona w formie pieniężnej, bezpośrednio na rachunek bankowy, z którego została dokonana płatność lub zgodnie z użytą metodą płatności.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "W przypadku uznania sprzeciwu, o którym mowa w pkt 13.7."
+      },
+      {
+        "text": "jak również w przypadku, w którym Ogłoszenie negatywnie wpływa na dobre imię Grupy OLX lub w inny sposób szkodzi Grupie OLX.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Grupa OLX uprawniona jest do usunięcia Ogłoszenia lub zablokowania Konta jeśli zaistniało podejrzenie, że za pośrednictwem Ogłoszenia lub Konta mogło lub może dojść do działań zagrażających bezpieczeństwu innych Użytkowników w ramach Serwisu,"
+      },
+      {
+        "text": "a także poważnego lub powtarzającego się naruszenia postanowień Regulaminu, w szczególności w razie powtarzających się prób publikowania lub rozpowszechniania nielegalnych treści przez danego Użytkownika lub różnych Użytkowników działających wspólnie i w porozumieniu, w tym z wykorzystaniem różnych Kont, Grupa OLX może, z zachowaniem zasad proporcjonalności i poszanowania wolności obrotu, zawiesić Konto lub Konta albo tymczasowo lub permanentnie je zablokować, co będzie równoznaczne z tymczasowym zawieszeniem świadczenia usług na rzecz Użytkownika, z uwzględnieniem poniższych zasad:\nzawieszenie Konta oznacza czasowe wstrzymania jego funkcjonalności. Użytkownik, którego Konto zostało zawieszone, traci możliwość aktywnego korzystania z Serwisu, co oznacza, że nie może wysyłać wiadomości z wykorzystaniem jego funkcjonalności, publikować Ogłoszeń ani dokonywać Transakcji. Użytkownik może jednak przeglądać Serwis, historię wiadomości i opublikowanych przez siebie Ogłoszeń oraz dokonywać wpłat na poczet Portfela OLX, przy czym, aby dokonać wypłaty przypisanych mu środków powinien skontaktować się z się z działem Wsparcia Klienta/Centrum Pomocy za pomocą formularza kontaktowego;\nzablokowanie Konta oznacza utratę przez Użytkownika możliwości zalogowania się do Konta.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "W razie poważnego naruszenia prawa z wykorzystaniem Serwisu,"
+      },
+      {
+        "text": "najpóźniej z chwilą, gdy blokada staje się skuteczna, w formie wiadomości e-mail, ze wskazaniem zablokowanej lub zawieszonej treści lub Konta, powodów decyzji o blokadzie lub zawieszeniu ze wskazaniem podstaw decyzji wynikających z treści Regulaminu.\nUżytkownik, który nie zgadza się z decyzją w przedmiocie zablokowania lub zawieszenia treści lub Konta, ma prawo do wniesienia skargi, zgodnie z postanowieniami punktu 15 Regulaminu. Dla uniknięcia wątpliwości, wniesienie lub niewniesienie skutecznego sprzeciwu w sytuacjach określonych punktem 13.6. lub 13.11. Regulaminu pozostaje bez wpływu na prawo Użytkownika do wniesienia reklamacji zgodnie z punktem 15 Regulaminu.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Użytkownik zostanie poinformowany w razie dokonania blokady lub zawieszenia danej treści lub Konta,"
+      },
+      {
+        "text": "Polityki oraz procedury moderacyjne przyjęte przez Grupę OLX opisują sposoby i środki identyfikacji treści lub działań Użytkowników, które są badane pod kątem\nnaruszenia Regulaminu lub przepisów obowiązującego prawa. Głównym celem opracowanych polityk i procedur moderacyjnych jest zapewnienie bezpieczeństwa Użytkowników i zwalczanie wszelkich nadużyć.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Grupa OLX podejmuje decyzje o blokadzie lub zawieszeniu treści lub Konta w oparciu o wewnętrzne polityki oraz procedury moderacyjne."
+      },
+      {
+        "text": "Zautomatyzowane lub częściowo zautomatyzowane narzędzia umożliwiają identyfikację treści lub działań, które naruszają lub mogą naruszać postanowienia Regulaminu lub przepisów prawa, na podstawie analizy treści Ogłoszenia lub aktywności Użytkowników w Serwisie. Narzędzia wykorzystywane w procesie moderacji treści dostępnych w Serwisie wykorzystują rozwiązania pozwalające na analizę Treści Ogłoszeń lub działań, które mogą naruszać Regulamin lub przepisy prawa oraz zgłoszenie ich do wewnętrznych zespołów moderacyjnych",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Proces identyfikacji treści lub działań Użytkowników może opierać się na zautomatyzowanych lub częściowo zautomatyzowanych narzędziach moderacyjnych."
+      },
+      {
+        "text": "Pozostałe decyzje związane z treściami lub działaniami Użytkowników podlegają ocenie prowadzonej przez zespoły moderacyjne Grupy OLX. Działania związane z treścią lub działaniami Użytkowników, które naruszają lub mogą naruszać postanowienia Regulaminu lub przepisów obowiązującego prawa są również podejmowane w związku ze zgłoszeniami przesyłanymi przez innych Użytkowników, organy lub organizacje zajmujące się bezpieczeństwem Użytkowników w internecie lub zwalczaniem nielegalnych treści.",
+        "section": "Bezprawne i niezgodne z Regulaminem działania Użytkowników",
+        "question": "Grupy OLX. Decyzje związane z naruszeniem Postanowień Regulaminu opisanych w punkcie 3 (Konta) lub działań związanych z naruszeniem bezpieczeństwa Serwisu lub Użytkowników mogą być podejmowane w sposób całkowicie zautomatyzowany."
+      }
+    ]
+  }
+]

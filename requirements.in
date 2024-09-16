@@ -1,0 +1,12 @@
+tqdm
+notebook==7.1.2
+openai
+elasticsearch
+scikit-learn
+pandas
+tiktoken
+sentence_transformers==2.7.0
+numpy==1.26.4
+requests
+python-docx==1.1.2
+streamlit
